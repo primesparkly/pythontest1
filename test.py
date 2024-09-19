@@ -5,9 +5,6 @@
 #print(sys.version)
 #print(sys.copyright)
 
-
-
-
 """
 if 5 > 2:
     print("Five is greater than two!")
@@ -54,3 +51,5 @@ a = "Hello"
 b = "World"
 c = a + b
 print(a,b)
+
+#this is comment
